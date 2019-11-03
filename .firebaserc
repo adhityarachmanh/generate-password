@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "adhityarachmanh-eb49c"
+  },
+  "targets": {
+    "adhityarachmanh-eb49c": {
+      "hosting": {
+        "generate-password": [
+          "generate-password"
+        ]
+      }
+    }
+  }
+}
